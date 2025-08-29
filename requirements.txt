@@ -1,0 +1,22 @@
+# core
+streamlit
+pandas
+numpy
+imbalanced-learn
+
+#visualization
+matplotlib
+seaborn
+
+#Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+#stats/EDA
+scipy
+statsmodels
+
+#Deployment
+joblib
